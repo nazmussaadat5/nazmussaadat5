@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Muhammad Nazmus Saadat</h1>
 <h3 align="center">A MTCNA Enthusiast</h3>
 
-<p align="center"> <img height="25" src="https://komarev.com/ghpvc/?username=ishmamnewaz&label=Profile%20views&color=0e75b6&style=flat" alt="ishmamnewaz" /> </p>
+<p align="center"> <img height="25" src="https://komarev.com/ghpvc/?username=nazmussaadat5&label=Profile%20views&color=0e75b6&style=flat" alt="nazmussaadat5" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
