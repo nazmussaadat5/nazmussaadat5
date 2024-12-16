@@ -9,6 +9,6 @@
 
 <p><img align="center"  height="190" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmussaadat5&show_icons=true&locale=en&layout=compact" alt="nazmussaadat5" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmussaadat5&show_icons=true&locale=en" alt="nazmussaadat5" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nazmussaadat5&show_icons=true&locale=en" alt="nazmussaadat5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmussaadat5&" alt="nazmussaadat5" /></p>
